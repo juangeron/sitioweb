@@ -1,0 +1,20 @@
+body {
+    font-family: fantasy;
+    text-align: center;
+  }
+  
+  input, button {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #FF3393;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #FF33D7;
+  }
