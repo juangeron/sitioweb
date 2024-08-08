@@ -1,20 +1,15 @@
-body {
-    font-family: fantasy;
-    text-align: left;
-  }
+input, button {
+  margin: 20px;
+}
   
-  input, button {
-    margin: 20px;
-  }
+button {
+  padding: 5px 10px;
+  background-color: #ff5733;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
   
-  button {
-    padding: 5px 10px;
-    background-color: #FF3393;
-    color: white;
-    border: none;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #FF33D7;
-  }
+button:hover {
+  background-color: aquamarine;
+}
